@@ -7,8 +7,6 @@ forget anything important. And by prioritizing tasks, we plan the order in which
 them, so that we can tell what needs our immediate attention, and what we can leave until
 later.
 
-![WEB 3.0]([https://myoctocat.com/assets/images/base-octocat.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fenplugged.com%2Fwhat-is-web3%2F&psig=AOvVaw3yWfoFtKQCrcVPQFvQPttv&ust=1664340938852000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCICps6mXtPoCFQAAAAAdAAAAABAM))
-
 We are using Smart Contracts and subsequent web application uses Html, CSS and
 JavaScript in this project. The analysis part is focusing on the different and new technologies
 that can achieve the major goal of creating a decentralized application and contains
@@ -17,3 +15,6 @@ that will be implement, then we work on the simple user interface design.
 The software development model adopted is the incremental one. I have been able to
 determine problems with the code, the functionalities and the connectivity between the
 application and the blockchain network.
+![WEB 3.0](https://cf-images.us-east-1.prod.boltdns.net/v1/static/2071817190001/f5016671-d789-44e5-b6f7-7fe34e7b3c03/daeb36ad-de1c-4e9c-bca1-5ea47551e56d/1280x720/match/image.jpg)
+
+
